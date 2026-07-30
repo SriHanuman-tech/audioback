@@ -1,0 +1,4 @@
+node_modules/
+audio_uploads.db
+uploads/*
+.env
